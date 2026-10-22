@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Renewable Energy Hub",
+  "short_name": "RenewableHub",
+  "description": "Renewable Energy Commerce, Solar Calculators, Quotation Generator and Maintenance Platform.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#0B192C",
+  "background_color": "#0B192C",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

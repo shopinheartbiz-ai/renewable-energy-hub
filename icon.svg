@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0B192C"/>
+  <circle cx="256" cy="160" r="64" fill="#F59E0B"/>
+  <path d="M256 64V96M256 224V256M160 160H192M320 160H352M188 92L210 114M302 206L324 228M188 228L210 206M302 114L324 92" stroke="#FBBF24" stroke-width="12" stroke-linecap="round"/>
+  <!-- Solar Panel base -->
+  <path d="M128 320L176 256H336L384 320L416 432H96L128 320Z" fill="#1E3E62" stroke="#38BDF8" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Grid lines -->
+  <path d="M256 256V432M176 336H336M144 384H368" stroke="#38BDF8" stroke-width="6" stroke-linecap="round"/>
+  <!-- Green leaf/energy flourish -->
+  <path d="M384 270C384 270 420 280 424 320C424 350 400 370 370 370C340 370 340 330 384 270Z" fill="#10B981" fill-opacity="0.9"/>
+</svg>
